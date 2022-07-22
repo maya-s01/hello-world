@@ -1,2 +1,2 @@
 Hello!
-Today is a sunny day
+Today is a rainy day
